@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="images/Banner.png" />
+  <img src="images/Banner.png" width="100%" />
 </p>
+
 <p align="center">
   ⭐ If this helped you, give it a star!
 </p>
+
+>💡 A complete beginner-to-pro guide to manage multiple GitHub accounts using SSH without conflicts.
 
 ![GitHub stars](https://img.shields.io/github/stars/ycode99/Multiple-GitHub-Accounts-Setup-Using-SSH?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ycode99/Multiple-GitHub-Accounts-Setup-Using-SSH?style=social)

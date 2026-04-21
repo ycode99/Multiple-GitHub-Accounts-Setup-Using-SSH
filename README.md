@@ -1,7 +1,7 @@
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO)
-![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO)
+![GitHub stars](https://img.shields.io/github/stars/ycode99/Multiple-GitHub-Accounts-Setup-Using-SSH?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ycode99/Multiple-GitHub-Accounts-Setup-Using-SSH?style=social)
+![GitHub issues](https://img.shields.io/github/issues/ycode99/Multiple-GitHub-Accounts-Setup-Using-SSH)
+![GitHub license](https://img.shields.io/github/license/ycode99/Multiple-GitHub-Accounts-Setup-Using-SSH)
 ![Made With](https://img.shields.io/badge/Made%20With-SSH%20%7C%20Git-blue)
 
 # 🔥 Use Multiple GitHub Accounts on One System (Windows) Using SSH | Complete Guide
